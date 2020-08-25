@@ -1,0 +1,32 @@
+﻿  Filesystem.cpp
+C:\Users\Osylion\source\repos\Project36\Project36\AccessDescriptor.h(105,47): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Osylion\source\repos\Project36\Project36\Filesystem.h(19,99): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Osylion\source\repos\Project36\Project36\Filesystem.h(20,103): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Osylion\source\repos\Project36\Project36\Filesystem.h(21,68): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Osylion\source\repos\Project36\Project36\Filesystem.h(22,57): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Osylion\source\repos\Project36\Project36\Filesystem.h(23,87): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Osylion\source\repos\Project36\Project36\Filesystem.h(26,85): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Osylion\source\repos\Project36\Project36\Filesystem.h(29,70): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Osylion\source\repos\Project36\Project36\Filesystem.h(30,99): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Osylion\source\repos\Project36\Project36\Filesystem.h(31,59): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Osylion\source\repos\Project36\Project36\Filesystem.cpp(7,1): warning C5043: 'Filesystem::createFile': exception specification does not match previous declaration
+C:\Users\Osylion\source\repos\Project36\Project36\Filesystem.h(19): message : see declaration of 'Filesystem::createFile'
+C:\Users\Osylion\source\repos\Project36\Project36\Filesystem.cpp(17,1): warning C5043: 'Filesystem::createFolder': exception specification does not match previous declaration
+C:\Users\Osylion\source\repos\Project36\Project36\Filesystem.h(20): message : see declaration of 'Filesystem::createFolder'
+C:\Users\Osylion\source\repos\Project36\Project36\Filesystem.cpp(27,1): warning C5043: 'Filesystem::listFolder': exception specification does not match previous declaration
+C:\Users\Osylion\source\repos\Project36\Project36\Filesystem.h(21): message : see declaration of 'Filesystem::listFolder'
+C:\Users\Osylion\source\repos\Project36\Project36\Filesystem.cpp(36,1): warning C5043: 'Filesystem::readFile': exception specification does not match previous declaration
+C:\Users\Osylion\source\repos\Project36\Project36\Filesystem.h(22): message : see declaration of 'Filesystem::readFile'
+C:\Users\Osylion\source\repos\Project36\Project36\Filesystem.cpp(45,1): warning C5043: 'Filesystem::writeFile': exception specification does not match previous declaration
+C:\Users\Osylion\source\repos\Project36\Project36\Filesystem.h(23): message : see declaration of 'Filesystem::writeFile'
+C:\Users\Osylion\source\repos\Project36\Project36\Filesystem.cpp(46,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Osylion\source\repos\Project36\Project36\Filesystem.cpp(57,1): warning C5043: 'Filesystem::openFolder': exception specification does not match previous declaration
+C:\Users\Osylion\source\repos\Project36\Project36\Filesystem.h(26): message : see declaration of 'Filesystem::openFolder'
+C:\Users\Osylion\source\repos\Project36\Project36\Filesystem.cpp(67,10): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Osylion\source\repos\Project36\Project36\Filesystem.cpp(87,1): warning C5043: 'Filesystem::copyPaste': exception specification does not match previous declaration
+C:\Users\Osylion\source\repos\Project36\Project36\Filesystem.h(28): message : see declaration of 'Filesystem::copyPaste'
+C:\Users\Osylion\source\repos\Project36\Project36\Filesystem.cpp(100,1): warning C5043: 'Filesystem::move': exception specification does not match previous declaration
+C:\Users\Osylion\source\repos\Project36\Project36\Filesystem.h(30): message : see declaration of 'Filesystem::move'
+C:\Users\Osylion\source\repos\Project36\Project36\Filesystem.cpp(108,1): warning C5043: 'Filesystem::Delete': exception specification does not match previous declaration
+C:\Users\Osylion\source\repos\Project36\Project36\Filesystem.h(31): message : see declaration of 'Filesystem::Delete'
+  Project36.vcxproj -> C:\Users\Osylion\source\repos\Project36\Debug\Project36.exe
